@@ -1,0 +1,6 @@
+train: ..\ train\labelled_images\
+val: ..\val\
+
+nc: 4
+
+names: ['player','referee','ball','basket']
