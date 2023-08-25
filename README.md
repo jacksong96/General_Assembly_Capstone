@@ -62,6 +62,8 @@ The project successfully achieved player detection, tracking, and possession det
 
 Feel free to explore the code and presentation decks in the respective folders.
 
+## Presentation Deck: https://docs.google.com/presentation/d/1102KBO8rkPExVLk0QG-hiLVZ3S9Qrs9NHxxKB2tbgCM/edit?usp=sharing
+
 
 
 
